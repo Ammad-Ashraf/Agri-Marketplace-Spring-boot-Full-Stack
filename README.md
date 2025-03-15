@@ -34,7 +34,7 @@ Cropify is licensed under the **MIT License**. For more details, see the [LICENS
 ## Contact
 Have questions or suggestions? Reach out to us:
 - **Ammad Ashraf**: [ashrafammad1@gmail.com](mailto:your.email@example.com)
-- **Project Link**: [https://github.com/yourusername/cropify](https://github.com/yourusername/cropify)
+- **Project Link**: [https://github.com/Ammad-Ashraf/Agri-Marketplace-Spring-boot-Full-Stack](https://github.com/yourusername/cropify)
 
 ---
 
